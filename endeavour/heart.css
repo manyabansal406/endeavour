@@ -1,0 +1,51 @@
+nav ul {
+    display: flex;
+    list-style-type: none;
+    background-color: burlywood;
+    color: beige;
+}
+
+nav ul li {
+    padding: 20px;
+}
+
+P {
+    color: brown;
+    font-size: larger;
+}
+
+h1 {
+    background-color: rgb(73, 16, 73);
+    font-size: 80px;
+    color: white;
+    height: 140px;
+    line-height: 2em;
+}
+
+h2 {
+    color: black;
+    font-size: 40px;
+}
+
+header main {
+    padding: 20px;
+}
+
+main {
+    background-image: url(images/heart.png);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: scroll;
+}
+
+main {
+    background-color: rgb(245, 215, 243);
+}
+
+footer {
+    background-color: purple;
+}
+
+p {
+    font-size: 20px;
+}
